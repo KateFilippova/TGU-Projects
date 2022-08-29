@@ -12,7 +12,7 @@
 С помощью библиотеки Pandas ответить на несколько вопросов по данным набора Adult по доходу населения, каждый объект которого содержит социальные характеристики некоторого человека (возраст, пол, профессиональная деятельность и т.п.).
 Выполните запись результатов в файл с разделителями.
 
-### <a href='https://github.com/KateFilippova/TGU-Projects/blob/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%203/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%E2%84%963.ipynb'>Практическая работа 3</a>
+### <a href='https://github.com/KateFilippova/TGU-Projects/blob/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%203/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%E2%84%963.ipynb'>Практическая работа 3</a> web-scraping BeautifulSoup
 Создайте программу web-scraping с использованием библиотеки BeautifulSoup. Источник https://quotes.toscrape.com/
 Реализуйте HTML разбор текста.
 Выведите результат в DataFarme: Цитата | Автор | Список тегов
@@ -24,7 +24,7 @@
 Построить гистограмму, treepmap, облако слов
 Используя networkx и matplotlib, построить граф, где узлы - это друзья
 
-### <a href='https://github.com/KateFilippova/TGU-Projects/edit/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%205/%D0%9F%D1%80%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0_5.sql'>Практическая работа 5</a>
+### <a href='https://github.com/KateFilippova/TGU-Projects/edit/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%205/%D0%9F%D1%80%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0_5.sql'>Практическая работа 5</a> SQL запросы
 Напишите SQL запросы к базе данных "Корпорация" по заданию.
 
 ### <a href='https://github.com/KateFilippova/TGU-Projects/blob/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%206/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%206_%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%BE%D0%B2%D0%B0.ipynb'>Практическая работа 6</a> Кластерный анализ с помощью алгоритма k-means. Модель прогноза с помощью алгоритма Дерево решений
